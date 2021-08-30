@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "First react project ",
+      "body": "This is the first react project that has been made by me and I am proud of the first step that has been taken by me in this direction of learning MERN Stack",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Trips are the best",
+      "body": "Going on trips every once in a while is great and extremely import from the recreational perspective",
+      "author": "yoshi",
+      "id": 2
+    }
+  ]
+}
